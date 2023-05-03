@@ -1,0 +1,3 @@
+[submodule "Activelook-API-Documentation"]
+	path = Activelook-API-Documentation
+	url = https://github.com/ActiveLook/Activelook-API-Documentation.git
